@@ -2,6 +2,8 @@ starwars
 ========
 
 Small game tutorial using HTML5 canvas
-Game option:
-  Shoot: space
-  Movement: navigation keys
+<ul>
+  Game option:
+  <li>Shoot: space</li>
+  <li>Movement: navigation keys</li>
+</ul>
