@@ -42,7 +42,7 @@
 		XWingImage.onload = function(){
 			XWingReady = true;	
 		};
-		XWingImage.src = "src/img/XWing.png";
+		XWingImage.src = "src/img/xwing.png";
 		
 		var XWLaserReady = false;
 		var XWLaserImage = new Image();
